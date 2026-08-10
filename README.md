@@ -8,14 +8,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,redis,docker,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,redis,docker,git,php,python,go,rust,vscode,figma&perline=8" />
   </a>
 </p>
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngoc8x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
 <!-- Kết thúc nhẹ nhàng -->
 <p align="center">
   <i>Thanks for stopping by! Let's connect and build something awesome 🚀</i>
